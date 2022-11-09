@@ -1,19 +1,24 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "Mango"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "Papaya"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Banana"
-        }
-    ]
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Mango"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Papaya"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Banana"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Orange"
+    }
+  ]
 }
